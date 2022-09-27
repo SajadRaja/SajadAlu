@@ -1,4 +1,3 @@
-1 contributor
 549 lines (268 sloc)  10.4 KB
 #!/usr/bin/python3
 
